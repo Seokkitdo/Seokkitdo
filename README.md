@@ -3,8 +3,7 @@
 ### Hi there, I'm Jeongdo!
 
   
-![https://velog.io/@seokkitdo](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+![https://velog.io/@seokkitdo](https://img.shields.io/badge/Blog-FF5722?style=flat-squar&logo=blogger&logoColor=white)  ![Gmail](https://img.shields.io/badge/sjd12329@gamil.com-D14836?style=flat-squar&logo=gmail&logoColor=white)
 
 
 ### ⛏ Skills
