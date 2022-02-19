@@ -4,9 +4,8 @@
 
 <a href="https://velog.io/@seokkitdo" target="_blank">
   
-![https://velog.io/@seokkitdo](https://img.shields.io/badge/Blog-FF5722?style=flat-squar&logo=blogger&logoColor=white)  </a>  ![Gmail](https://img.shields.io/badge/sjd12329@gamil.com-D14836?style=flat-squar&logo=gmail&logoColor=white)
-
-
+![https://velog.io/@seokkitdo](https://img.shields.io/badge/Blog-FF5722?style=flat-squar&logo=blogger&logoColor=white)  </a> 
+[ ![Gmail](https://img.shields.io/badge/sjd12329@gamil.com-D14836?style=flat-squar&logo=gmail&logoColor=white&link=mailto:sjd12329@gmail.com)](mailto:sjd12329@gmail.com)
 ### ⛏ Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
